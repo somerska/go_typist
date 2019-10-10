@@ -2,7 +2,8 @@
 
 ### Description
 
-A simple program that facilitates the downloading of course materials hosted on Canvas Online Learning Platform.  Using Google Chrome (chromedriver) or Firefox (geckodriver), either with or without GUI, after logging-in, it will traverse your courses, finding video links and download them as videos you can watch off-line or mp3 for you to listen on the go.
+A command line typing game, to test your typing abilities.  The typing tests are pulled in from a csv and the user must
+type the line correctly in the allotted time.
 
 ### Installation
 
