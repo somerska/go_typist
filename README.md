@@ -36,8 +36,8 @@ csv with the following entries:
 
 ```
 5,can you type this in 5 seconds?
-3,quick one, type fast!
-8,wow you have 8 seconds to type this, plenty of time.
+3,quick one type fast!
+8,wow you have 8 seconds to type this plenty of time.
 ```
 
 Once the csv is created, direct the program to the csv like this inside your terminal:
